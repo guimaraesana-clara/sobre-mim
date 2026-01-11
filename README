@@ -1,0 +1,41 @@
+# Projeto 01: Minhas Paixões (TripleTen)
+Este é o meu primeiro projeto prático como estudante de Desenvolvimento Web na TripleTen. É uma página biográfica que descreve quatro coisas que amo fazer, servindo como laboratório para conceitos fundamentais e avançados de estruturação e estilização web.
+
+## Contexto e Desafio
+O desafio foi transformar um layout estático em uma página viva. Além do básico, explorei a organização de elementos complexos e o refinamento estético para criar uma interface moderna e harmoniosa.
+
+## Tecnologias e Conceitos Aplicados
+HTML5 (Estrutura e Hierarquia)
+Hierarquia Visual: Estruturação lógica com <h1>, <h2> e <p> para garantir que o conteúdo seja compreensível e acessível.
+
+Caixa dentro de Caixa (Aninhamento): Uso de elementos aninhados para criar cartões ou seções específicas para cada hobby.
+
+Rodapé: Implementação de uma seção de encerramento (<footer>) para finalizar a página.
+
+CSS3 (Design e Layout)
+Box Model e Bordas: Uso de border para definir limites e margin/padding para o espaçamento.
+
+Centralização Vertical: Aplicação de técnicas para alinhar elementos perfeitamente ao centro da tela ou de seus containers.
+
+Efeitos Visuais Avançados:
+
+Opacidade: Uso de opacity para criar efeitos de transparência e camadas.
+
+Box Shadow: Sombras para conferir profundidade aos elementos.
+
+Background: Personalização de fundos para dar identidade visual.
+
+Tipografia: Controle total com font-family e font-size.
+
+Classes: Organização do CSS através de classes, evitando repetição de código.
+
+## Aprendizados de Destaque
+O conceito de "Caixa": Entender que tudo na web é uma caixa dentro de outra caixa facilitou muito a organização do meu layout.
+
+Centralização: Aprender a centralizar verticalmente foi um divisor de águas para deixar o site com aspecto profissional.
+
+Refinamento com Opacidade: A transparência me permitiu criar sobreposições interessantes entre o fundo e os textos.
+
+
+## Autor
+[Ana Clara Gumarães Garcia] Estudante de Desenvolvimento Web na TripleTen.
